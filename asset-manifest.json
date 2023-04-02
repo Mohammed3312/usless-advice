@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/usless-advice/static/css/main.a6b40cb0.css",
+    "main.js": "/usless-advice/static/js/main.04c27327.js",
+    "static/js/787.6651a71d.chunk.js": "/usless-advice/static/js/787.6651a71d.chunk.js",
+    "index.html": "/usless-advice/index.html",
+    "main.a6b40cb0.css.map": "/usless-advice/static/css/main.a6b40cb0.css.map",
+    "main.04c27327.js.map": "/usless-advice/static/js/main.04c27327.js.map",
+    "787.6651a71d.chunk.js.map": "/usless-advice/static/js/787.6651a71d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6b40cb0.css",
+    "static/js/main.04c27327.js"
+  ]
+}
